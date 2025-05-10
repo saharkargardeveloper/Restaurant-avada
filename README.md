@@ -1,5 +1,5 @@
 # Restaurant-avada
-![Image](https://github.com/user-attachments/assets/c0046d62-23aa-44d0-9678-f0fac07e62ea)
+![Image](https://github.com/user-attachments/assets/a668ffb9-ecd8-4481-bb50-c553d4222302)
 - [Demo Project](https://saharkargardeveloper.github.io/Restaurant-avada/)
 - 👩‍💻 Developed by Sahar Kargar
 - Created - 2025/5
